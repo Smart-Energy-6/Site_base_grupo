@@ -4,7 +4,7 @@ body{
 .row{
     margin-bottom: 20px;
     padding: 20px;
-    background-color: #EE4251;
+    background-color: white;
 }
 .col{
     background-color: white; 
@@ -19,4 +19,7 @@ body{
     margin-top:20px;
     border-radius: 15px;
     margin-bottom:20px;
+}
+#conteudo{
+    background-color:#EE4251;
 }
