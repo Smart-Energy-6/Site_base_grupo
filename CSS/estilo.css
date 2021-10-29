@@ -23,3 +23,13 @@ body{
 #conteudo{
     background-color:#EE4251;
 }
+.corfundobotao{
+    background-color: #737373;
+    color: : #17467B;
+    border-color: : #737373;
+}
+.corfundobotao:hover{
+    background-color: #737373;
+    color: ;
+    border-color: ;
+}
