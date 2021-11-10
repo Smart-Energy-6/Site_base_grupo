@@ -25,11 +25,11 @@ body{
 }
 .corfundobotao{
     background-color: #737373;
-    color: : #black;
-    border-color: : #737373;
+    color: #737373;
+    border-color:  #737373;
 }
 .corfundobotao:hover{
     background-color: #737373;
-    color: ;
-    border-color: ;
+    color: #737373;
+    border-color: #737373; 
 }
