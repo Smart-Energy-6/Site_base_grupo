@@ -1,10 +1,10 @@
 body{
-    background-color: lightskyblue;
+    background-color: #93C7C7;
 }
 .row{
     margin-bottom: 20px;
     padding: 20px;
-    background-color: lightskyblue;
+    background-color: #93C7C7;
 }
 .col{
     background-color: white; 
@@ -24,12 +24,12 @@ body{
     background-color:#EE4251;
 }
 .corfundobotao{
-    background-color: #737373;
-    color: black;
-    border-color:  #737373;
+    background-color: #17467B;
+    color: rgb(255, 255, 255);
+    border-color:  #17467B;
 }
 .corfundobotao:hover{
-    background-color: #737373;
-    color:  black;
-    border-color: #737373; 
+    background-color: #17467B;
+    color:  rgb(255, 255, 255);
+    border-color: #17467B; 
 }
